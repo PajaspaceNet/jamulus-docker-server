@@ -1,6 +1,6 @@
 
 
-# Jamulus – funkční setup (Fedora server + Windows klient + FedoraCLient)
+# Jamulus – funkční setup (Server + Windows klient + FedoraCLient)
 
  popis konfiguraci Jamulus, která **funguje v reálném čase**, vidí mikrofon a umožňuje spojení klient–server.<br>
  Pokud chcete info jak instalovat na serveru ctete prosim README https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/README.md<br>

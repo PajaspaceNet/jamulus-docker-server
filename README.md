@@ -4,7 +4,7 @@ jamulus-docker-server/
 ├── README.md
 ├── docker-compose.yml
 ├── .gitignore
-└── LICENSE
+
 ```
 
 
@@ -70,10 +70,6 @@ Z klienta (Jamulus GUI na Windows / Linux / macOS) se připojíte na:
 <IP_adresa_VPS>:22124
 ```
 
-Pokud chcete server chránit heslem nebo změnit zprávu pro uživatele,
-můžete upravit `docker-compose.yml`.
-
----
 
 
 

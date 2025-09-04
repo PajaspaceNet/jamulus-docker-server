@@ -60,7 +60,18 @@ docker-compose up -d
 
 To spustí Jamulus server na portu `22124/udp`.
 
----
+
+## Zastaveni stareho a stareho a spusteni noveho klienta 
+
+```
+docker stop jamulus-server 2>/dev/null; docker rm jamulus-server 2>/dev/null; \
+docker run -d --name jamulus-server \
+  -p 22124:22124/udp \
+  grundic/jamulus \
+  --nogui --server --port 22124
+```
+
+
 
 ## ⚙️ Připojení klienta
 

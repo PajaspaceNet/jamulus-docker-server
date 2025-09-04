@@ -2,12 +2,12 @@
 
 
 # jamulus-docker-server
-## Vitam Vas na projektu Jamulus docker server.
+## Vitam Vas na projektu Jamulus docker server.  
 
 ## Doporuceny postup 
 * Readme .... pokud chcete instalovat na serveru <br>
-* instalace-na-klientovi ... jak nainstalujete na klientovi https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/instalace-na-klientovi.md<br> 
-*  troubleshooting ... troubleshouting https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/troubleshooting.md<br>
+* instalace-na-klientovi ... [jak nainstalujete na klientovi](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/instalace-na-klientovi.md)<br> 
+*  troubleshooting ... [troubleshouting](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/troubleshooting.md)<br>
 
 ```
 jamulus-docker-server/

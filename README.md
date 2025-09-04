@@ -8,6 +8,7 @@
 * Readme .... pokud chcete instalovat na serveru <br>
 * instalace-na-klientovi ... [jak nainstalujete na klientovi](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/instalace-na-klientovi.md)<br> 
 *  troubleshooting ... [troubleshouting](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/troubleshooting.md)<br>
+* screenshots ... [screenshoty s nastavenim klienta na windows](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/screenshots.md)
 
 ```
 jamulus-docker-server/
@@ -16,6 +17,7 @@ jamulus-docker-server/
 ├── .gitignore
 ├── instalace-na-klientovi.md
 ├── troubleshooting.md
+├── screenshots.md
 ```
 
 

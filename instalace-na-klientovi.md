@@ -87,12 +87,11 @@ Docker / Podman varianta
 •	Exponuj port, mountuj logy, nebo použij host network:
 ```
 ```
-docker run -d \
-  --name jamulus-server \
-  --network host \
-  -v /srv/jamulus:/data \
-  jamulus-server \
-  Jamulus -s --nogui -e jamulus.fischvolk.de:22124 --log /data/jamulus.log
+docker run -d --name jamulus-server \
+  -p 22124:22124/udp \
+  grundic/jamulus \
+  --nogui --server --port 22124
+
   ```
 ________________________________________
 4️⃣ Funkční nastavení a doporučení

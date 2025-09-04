@@ -1,5 +1,20 @@
 *.log
+
+# OS
+*.swp
+*.tmp
+.DS_Store
+
+# Python / Node / Java atd. dle potřeby
+__pycache__/
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
 *.pid
 *.sock
-.DS_Store
+
 

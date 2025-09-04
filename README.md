@@ -5,6 +5,7 @@ jamulus-docker-server/
 ├── docker-compose.yml
 ├── .gitignore
 ├── instalace-na-klientovi.md
+├── troubleshooting.md
 ```
 
 

@@ -3,11 +3,12 @@
 # Jamulus – funkční setup (Fedora server + Windows klient + FedoraCLient)
 
  popis konfiguraci Jamulus, která **funguje v reálném čase**, vidí mikrofon a umožňuje spojení klient–server.
+ Pokud chcete info jak instalovat na serveru ctete prosim README
 
-Co jsme měli k dispozici 
-1 OS Fedora   user station A  Laptop
-1 OS Windows11  user station B  Laptop
-1 Server RedHat /Centos/
+## Co jsme měli k dispozici 
+* 1 OS Fedora   user station A  Laptop
+* 1 OS Windows11  user station B  Laptop
+* 1 Server RedHat /Centos/
 
 ---
 

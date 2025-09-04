@@ -4,7 +4,7 @@ jamulus-docker-server/
 ├── README.md
 ├── docker-compose.yml
 ├── .gitignore
-
+├── instalace-na-klientovi.md
 ```
 
 

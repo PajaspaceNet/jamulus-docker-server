@@ -1,4 +1,13 @@
+
+
+
 # jamulus-docker-server
+## Vitam Vas na projektu Jamulus docker server.
+
+doporuceny postup - Readme .... pokud chcete instalovat na serveru <br>
+                  - instalace-na-klientovi ... jak nainstalujete na klientovi<br>
+                  - troubleshooting ... troubleshouting<br><br>
+
 ```
 jamulus-docker-server/
 ├── README.md

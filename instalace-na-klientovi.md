@@ -46,11 +46,13 @@ ________________________________________
 2️⃣ Jamulus klient – Windows
 Instalace
 `
-1.	Stáhni z
+1.	Stáhni z klienta
 
-```
- https://jamulus.io/software
-```
+[stahni klienta](https://jamulus.io/wiki/Installation-for-Windows)
+
+2.Stahni Asio
+[stahni ASIO](https://jamulus.io/wiki/Installation-for-Windows)
+
 3.	Spusť instalaci
 Nastavení zvuku
 ```

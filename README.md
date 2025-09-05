@@ -75,6 +75,15 @@ Stačí spustit:
 docker-compose up -d
 ```
 
+**nebo bez Compose primo** 
+
+```bash
+docker run -d --name jamulus-server \
+  -p 22124:22124/udp \
+  grundic/jamulus \
+  --nogui --server --port 22124
+```
+
 To spustí Jamulus server na portu `22124/udp`.
 
 

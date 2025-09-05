@@ -98,6 +98,8 @@ Z klienta (Jamulus GUI na Windows / Linux / macOS) se připojíte na:
 <IP_adresa_VPS>:22124
 ```
 
+Vice na *instalace-na-klientovi Linux/Win*... [jak nainstalujete na jednotlivych klientech](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/instalace-na-klientovi.md)<br> 
+
 
 
 

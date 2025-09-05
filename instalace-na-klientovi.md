@@ -103,7 +103,7 @@ ________________________________________
 •	PipeWire / JACK – na Linuxu pro nízkou latenci použít pw-jack
 ```
 ________________________________________
-5️⃣ Shrnutí
+5️⃣ Shrnutí<br>
 •	Tento setup funguje v reálném čase <br>
 •	Mikrofon se vidí a vybuzuje <br>
 •	Klient i server jsou schopni se připojit přes lokální síť i veřejně <br>

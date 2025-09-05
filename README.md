@@ -33,7 +33,7 @@ jamulus-docker-server/
 Jamulus Server (Docker running)
 ```
 **Konfigurace a  spuštění serveru**
-Jadro jamulus .instrukce atd ... se nachazi take zde  - [Jamulus](https://jamulus.io) 
+Jadro jamulus , instrukce, KB  atd ... se nachazi take zde  - [Jamulus](https://jamulus.io) 
 
 **Jamulus je open-source software** -  pro hraní hudby online s nízkou latencí.
 

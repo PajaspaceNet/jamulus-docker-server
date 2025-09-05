@@ -41,7 +41,7 @@ Jadro jamulus , instrukce, KB  atd ... se nachazi take zde  - [Jamulus](https://
 
 ## 🔧 Předpoklady
 
-Na serveru musí být nainstalovaný Docker a Docker Compose.
+Na serveru musí být nainstalovaný Docker a Docker Compose - *pokud chcete spoustet s compose :-).
 
 ### Instalace Dockeru (Linux, CentOS)
 

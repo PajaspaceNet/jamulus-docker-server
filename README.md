@@ -1,7 +1,7 @@
 
 ## Vitam Vas na projektu Jamulus-docker-server.  
 
-**Proc vzniknul tento program** - s potreby hrat online , any me clovek na druhe strane slysel v realne case a ne se zpozdenim<br>
+**Proc vzniknul tento program** - z potreby hrat online , aby mel clovek na druhe strane slysel v realne case a ne se zpozdenim<br>
 Receno technicky **Jamulus je open-source software** -  pro hraní hudby online s nízkou latencí.<br>
 **Proc docker** - protoze instalacni balicky jsou psane pro debian , no a ja mam CentOS na serveru  , takze nejjednodussi bylo<br>
 pouzit docker , a pustit to v nem <br>

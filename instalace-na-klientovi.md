@@ -57,7 +57,7 @@ Na stejne strance nize <br>
 ### 3.	Spusť instalaci
 Nastavení zvuku
 ```
-•	Audio Device: WDM / DirectSound / WASAPI (bez ASIO lze spustit, ale ASIO4ALL je doporučeno pro nižší latenci)
+•	Audio Device: WDM / DirectSound / WASAPI (bez ASIO nekdy nelze spustit,  ASIO4ALL je doporučeno pro nižší latenci)
 •	Sample Rate: 48000 Hz
 •	Buffer Size: 128 (nebo 64 pro nižší latenci)
 •	Input Monitoring: zapnuto pro kontrolu vybuzení

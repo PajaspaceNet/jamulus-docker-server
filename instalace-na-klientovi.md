@@ -51,6 +51,7 @@ Instalace
 [stahni klienta](https://jamulus.io/wiki/Installation-for-Windows)
 
 ### 2.Stahni Asio
+Na stejne strance nize <br>
 [stahni ASIO](https://jamulus.io/wiki/Installation-for-Windows)
 
 ### 3.	Spusť instalaci

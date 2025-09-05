@@ -46,14 +46,14 @@ ________________________________________
 2️⃣ Jamulus klient – Windows
 Instalace
 `
-1.	Stáhni z klienta
+### 1.	Stáhni z klienta
 
 [stahni klienta](https://jamulus.io/wiki/Installation-for-Windows)
 
-2.Stahni Asio
+### 2.Stahni Asio
 [stahni ASIO](https://jamulus.io/wiki/Installation-for-Windows)
 
-3.	Spusť instalaci
+### 3.	Spusť instalaci
 Nastavení zvuku
 ```
 •	Audio Device: WDM / DirectSound / WASAPI (bez ASIO lze spustit, ale ASIO4ALL je doporučeno pro nižší latenci)

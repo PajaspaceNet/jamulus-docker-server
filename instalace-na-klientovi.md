@@ -62,6 +62,9 @@ Nastavení zvuku
 •	Buffer Size: 128 (nebo 64 pro nižší latenci)
 •	Input Monitoring: zapnuto pro kontrolu vybuzení
 ```
+Priklad nastaveni zvuku na [viz screenshoty](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/screenshots.md)
+
+```
 Připojení k serveru
 ```
 •	Connect → Add Server → IP adresu serveru a port 22124

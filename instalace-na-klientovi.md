@@ -104,9 +104,9 @@ ________________________________________
 ```
 ________________________________________
 5️⃣ Shrnutí
-•	Tento setup funguje v reálném čase
-•	Mikrofon se vidí a vybuzuje
-•	Klient i server jsou schopni se připojit přes lokální síť i veřejně
-•	Všechny parametry a oprávnění jsou nastaveny tak, aby Jamulus běžel stabilně
+•	Tento setup funguje v reálném čase <br>
+•	Mikrofon se vidí a vybuzuje <br>
+•	Klient i server jsou schopni se připojit přes lokální síť i veřejně <br>
+•	Všechny parametry a oprávnění jsou nastaveny tak, aby Jamulus běžel stabilně <br>
 
 ---

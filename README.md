@@ -26,17 +26,18 @@ jamulus-docker-server/
 
 
 
+
 ### 📄  Docker instalace
 
-````markdown
-# Jamulus Server (Docker)
-
+```markdown
+Jamulus Server (Docker running)
+```
 **Konfigurace a  spuštění serveru**
 Jadro jamulus  se nachazi zde  - [Jamulus](https://jamulus.io) 
 
 **Jamulus je open-source software** -  pro hraní hudby online s nízkou latencí.
 
----
+
 
 ## 🔧 Předpoklady
 

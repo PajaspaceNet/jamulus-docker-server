@@ -64,7 +64,7 @@ Nastavení zvuku
 ```
 Priklad nastaveni zvuku na [viz screenshoty](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/screenshots.md)
 
-```
+
 Připojení k serveru
 ```
 •	Connect → Add Server → IP adresu serveru a port 22124

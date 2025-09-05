@@ -1,12 +1,15 @@
 
+## Vitam Vas na projektu Jamulus-docker-server.  
 
-
-# jamulus-docker-server
-## Vitam Vas na projektu Jamulus docker server.  
+**Proc vzniknul tento program** - s potreby hrat online , any me clovek na druhe strane slysel v realne case a ne se zpozdenim<br>
+Receno technicky **Jamulus je open-source software** -  pro hraní hudby online s nízkou latencí.<br>
+**Proc docker** - protoze instalacni balicky jsou psane pro debian , no a ja mam CentOS na serveru  , takze nejjednodussi bylo<br>
+pouzit docker , a pustit to v nem <br>
+Repo obsahuje **docker-compose** kdyby nekdo chtel to spouste prez nez nej /nekolik imigu atd/, nebo **primou moznost start scriptem**.<br>
 
 ## Doporuceny postup 
 * Readme .... pokud chcete instalovat na serveru <br>
-* instalace-na-klientovi Linux/Win ... [jak nainstalujete na klientovi](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/instalace-na-klientovi.md)<br> 
+* instalace-na-klientovi Linux/Win ... [jak nainstalujete na jednotlivych klientech](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/instalace-na-klientovi.md)<br> 
 *  troubleshooting ... [troubleshouting](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/troubleshooting.md)<br>
 * screenshots ... [screenshoty s nastavenim klienta na windows](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/screenshots.md)
 
@@ -28,10 +31,10 @@ jamulus-docker-server/
 ````markdown
 # Jamulus Server (Docker)
 
-Tento repozitář obsahuje jednoduchou konfiguraci pro spuštění
-[Jamulus](https://jamulus.io) serveru v Dockeru.
+**Konfigurace a  spuštění serveru**
+Jadro jamulus  se nachazi zde  - [Jamulus](https://jamulus.io) 
 
-Jamulus je open-source software pro hraní hudby online s nízkou latencí.
+**Jamulus je open-source software** -  pro hraní hudby online s nízkou latencí.
 
 ---
 

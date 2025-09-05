@@ -1,21 +1,20 @@
 
-````markdown
-# 🔧 Troubleshooting – Jamulus Server & Client
 
-Tento dokument shrnuje nejčastější problémy při instalaci a používání **Jamulus serveru a klienta**.
+# Troubleshooting – Jamulus Server & Client
 
----
+ Shrnuti nejčastějších problému při instalaci a používání **Jamulus serveru a klienta**.
+
+
 
 ## 1. Kontejner se hned vypne (`docker ps` nic neukazuje)
 - Zkontroluj logy:
-  ```bash
+```
   docker logs jamulus-server
-````
+```
 
 * Pokud vidíš hlášku `Unknown option`, použil jsi parametr, který tato verze Jamulusu nezná.
   → Odeber ho nebo spusť `--help` pro seznam dostupných parametrů.
 
----
 
 ## 2. Nelze se připojit na server
 

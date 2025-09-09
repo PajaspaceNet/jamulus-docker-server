@@ -35,6 +35,7 @@ Výsledek se opět komprimuje (Opus) a posílá všem zpět.<br>
    [ Mix to A ]     [ Mix to B ]     [ Mix to C ]
 ```
 
+[Podrobneji zde](https://jamulus.io/PerformingBandRehearsalsontheInternetWithJamulus.pdf?utm_source=chatgpt.com)
 
 ## Doporuceny postup 
 

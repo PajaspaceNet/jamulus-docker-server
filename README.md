@@ -7,8 +7,39 @@ Receno technicky **Jamulus je open-source software** -  pro hraní hudby online 
 pouzit docker , a pustit to v nem <br>
 Repo obsahuje **docker-compose** kdyby nekdo chtel to spouste prez nez nej /nekolik imigu atd/, nebo **primou moznost start scriptem**.<br>
 
+## jak to  funguje 
+
+### Zhruba takto <br>
+Klienti posílají audio přes UDP.<br>
+Server provede Opus dekompresi → jitter buffer → mix.<br>
+Výsledek se opět komprimuje (Opus) a posílá všem zpět.<br>
+
+
+
+```
+   [ Client A ]      [ Client B ]      [ Client C ]
+        |                 |                 |
+        v                 v                 v
+   +---------------------------------------------+
+   |                  Server                     |
+   |                                             |
+   |  [UDP recv] -> [Opus decode] -> [JitterBuf] |
+   |            \       |       /                |
+   |             \      |      /                 |
+   |              +---> [Mixer]                   |
+   |                      |                       |
+   |          [Opus encode + UDP send]            |
+   +---------------------------------------------+
+        |                 |                 |
+        v                 v                 v
+   [ Mix to A ]     [ Mix to B ]     [ Mix to C ]
+```
+
+
 ## Doporuceny postup 
-* Readme .... pokud chcete instalovat na serveru <br>
+
+
+* Readme .... seznameni se s serverm principy a dale pokud chcete instalovat na serveru  <br>
 * instalace-na-klientovi Linux/Win ... [jak nainstalujete na jednotlivych klientech](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/instalace-na-klientovi.md)<br> 
 *  troubleshooting ... [troubleshouting](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/troubleshooting.md)<br>
 * screenshots ... [screenshoty s nastavenim klienta na windows](https://github.com/PajaspaceNet/jamulus-docker-server/blob/main/screenshots.md)

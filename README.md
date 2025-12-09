@@ -119,7 +119,7 @@ docker run -d --name jamulus-server \
 To spustí Jamulus server na portu `22124/udp`.
 
 
-## Zastaveni stareho a stareho a spusteni noveho klienta 
+## Zastaveni stareho a spusteni noveho klienta 
 
 ```
 docker stop jamulus-server 2>/dev/null; docker rm jamulus-server 2>/dev/null; \
